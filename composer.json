@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezplatform-cron",
+    "name": "se7enxweb/ezplatform-cron",
     "description": "Simple cron bundle for eZ Platform",
     "homepage": "https://github.com/ezsystems/ezplatform-cron",
     "license": "GPL-2.0-only",
@@ -11,6 +11,7 @@
         }
     ],
     "replace": {
+        "ezsystems/ezplatform-cron": "*",
         "ezsystems/ezstudio-cron": "*"
     },
     "autoload": {
